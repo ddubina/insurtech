@@ -1,0 +1,2 @@
+# insurtech
+Insurtechs curated list
