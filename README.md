@@ -1,2 +1,2 @@
-# insurtech
-Insurtechs curated list
+# Insurtech
+A curated list of the best insurtech startups
